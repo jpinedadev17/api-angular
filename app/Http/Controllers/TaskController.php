@@ -17,6 +17,7 @@ class TaskController extends Controller
      */
     protected $tasks;
 
+
     /**
      * Create a new controller instance.
      *
